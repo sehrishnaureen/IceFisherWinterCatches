@@ -37,7 +37,7 @@ struct SettingsView: View {
                             Text("Ice Fisher")
                                 .font(.headline)
                             
-                            Text("Your Winter Fishing Companion")
+                            Text("Winter Fish Companion")
                                 .font(.caption)
                                 .foregroundColor(.secondary)
                         }
