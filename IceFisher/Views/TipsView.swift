@@ -32,7 +32,7 @@ struct TipsView: View {
                 }
                 .listStyle(.insetGrouped)
             }
-            .navigationTitle("Ice Fishing Tips")
+            .navigationTitle("IceFish Tips")
         }
     }
 }
